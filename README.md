@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- 📫 Linkedin - https://www.linkedin.com/in/siddharth-negi-587495196/
+
 
 
 

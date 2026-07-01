@@ -1,4 +1,4 @@
-learning, shipping, and occasionally stuck in an infinite loop of curiosity
+learning, shipping
 
 ![Alt Text](https://jonathantsang.me/assets/images/watchmen/c2.png)
 <!---
